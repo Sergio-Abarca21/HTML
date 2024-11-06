@@ -1,0 +1,19 @@
+.main-section {
+    background-image: url('/assets/img/Wallpaper\ 3.png');
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #000000;
+    text-align: center;
+}
+
+.card {
+    height: 100px;
+}
+
+.card img {
+    height: 250px;
+}
